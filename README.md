@@ -1,6 +1,8 @@
 # Ceaser-Cipher
 
-A Caesar Cipher is a type of substitution in which each letter is shifted a certain number of places, 20th Dec 2020
+A Caesar Cipher is a type of substitution in which each letter is shifted a certain number of places, 
+
+Created: 20th Dec 2020
 
 By GGSolomon
 
