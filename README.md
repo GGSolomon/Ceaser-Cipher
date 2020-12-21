@@ -24,19 +24,15 @@ Unzip the folder.
 
 You should have all the project files.
 
-# BDD
+# How to Use
 
-The user have to choose which option he need "Encrypt", "Decrypt" or "Exit".
+The user have to run the project to get the options available.
 
-If the user chooses the "Encrypt" option, he/she will be required to enter a word of his/her choice that he/she want to encrypt.
+If the user shall get a prompt to Enter the plaintext, and he/she will be required to enter a word of his/her choice that he/she want to encrypt.
 
-after choosing the word, the user will be required to enter a shift key to use for his/her encryption.
+after choosing the word, the user will be required to Enter the value by which each letter of the string is to be shifted.
 
 Then the application will output the encrypted word.
-
-The same process is done if the user chooses the "Decrypt" option except that this time the application will decrypt the encrypted word.
-
-Then the application will output the decrypted word.
 
 If the user chooses the "Exit" option, the application will exit.
 
